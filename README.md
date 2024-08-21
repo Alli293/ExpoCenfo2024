@@ -1,4 +1,9 @@
-Este proyecto tiene como objetivo desarrollar un visor de aves innovador que no solo funcione como un comedero convencional, sino que también permita realizar muestreos de aves. A través de este visor, se podrán determinar las condiciones de vida de las aves, realizar mediciones en sus poblaciones, e incluso identificar nuevas especies. Este dispositivo contribuirá a estudios ecológicos y a la conservación de la biodiversidad, proporcionando datos valiosos sobre las aves en su hábitat natural.
+Este proyecto tiene como objetivo desarrollar un visor de aves innovador que va más allá de las funciones de un comedero convencional. Este dispositivo multifuncional no solo atraerá a las aves, sino que también servirá como una herramienta avanzada para la observación y estudio de diversas especies. A través de este visor, los usuarios podrán realizar muestreos de aves de manera precisa y sistemática, lo que permitirá determinar las condiciones de vida de las poblaciones de aves en diferentes entornos.
+
+Además, el visor facilitará la recopilación de datos sobre el comportamiento de las aves, su alimentación, patrones migratorios, y otros aspectos clave que son esenciales para la investigación ecológica. La capacidad de realizar mediciones detalladas permitirá a los investigadores monitorear la salud y la diversidad de las poblaciones de aves a lo largo del tiempo, contribuyendo a la identificación de nuevas especies y la comprensión de la dinámica de las poblaciones existentes.
+
+Este dispositivo será una herramienta invaluable para estudios de conservación, proporcionando datos precisos y de alta calidad sobre las aves en su hábitat natural. Al combinar la observación directa con la recopilación de datos, el visor ayudará a los científicos y conservacionistas a tomar decisiones informadas para la protección de la biodiversidad. De esta manera, el proyecto no solo enriquecerá el conocimiento científico, sino que también promoverá la conservación de las aves y sus ecosistemas, contribuyendo al equilibrio ecológico y al bienestar de nuestro planeta.
+
 
 Como Utilizarlo
 
@@ -15,3 +20,6 @@ Cámara de Visualización: El visor incluye una cámara integrada que proporcion
 Registro y Análisis de Datos: Cada vez que un ave es detectada por el sensor RFID, la información es registrada y almacenada para su análisis posterior. Esto incluye detalles sobre la frecuencia de visitas, la identificación de aves individuales y cualquier otro dato relevante. La cámara también puede capturar imágenes o videos que se utilizan para estudios de comportamiento y salud de las aves.
 
 Mantenimiento y Configuración: Para asegurar un funcionamiento óptimo del visor, es importante realizar un mantenimiento regular. Esto incluye la revisión del comedero para reponer el alimento, verificar el funcionamiento del sensor RFID y la cámara, y asegurarse de que la estructura camuflada se mantenga en buen estado. Además, se recomienda calibrar el sensor y la cámara según sea necesario para ajustar a las condiciones del entorno.
+
+  Pruebas:
+
