@@ -2,7 +2,7 @@ Proyecto ExpoCenfo 2024
 Integrantes:  Ariela Jiménez Rodriguez
               Allison Romero Jiménez
               Axel Chavez Olazo
-              Anthony
+              Anthony Blanco Paniagua
 
 
 Este proyecto tiene como objetivo desarrollar un visor de aves innovador que va más allá de las funciones de un comedero convencional. Este dispositivo multifuncional no solo atraerá a las aves, sino que también servirá como una herramienta avanzada para la observación y estudio de diversas especies. A través de este visor, los usuarios podrán realizar muestreos de aves de manera precisa y sistemática, lo que permitirá determinar las condiciones de vida de las poblaciones de aves en diferentes entornos.
